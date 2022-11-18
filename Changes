@@ -2,6 +2,7 @@
 --------
     * = switch to dzil
     * ? better description
+    * ? deleted obsolete POD
     * & added contributing file
     * & adapted my usual dist.ini
     * & adapted my usual github readme
